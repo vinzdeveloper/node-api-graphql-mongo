@@ -4,6 +4,8 @@ Created this repository for graphql learning purposes. Following our traditional
 
 Hope it will be benefited to other developers as well who wants to understand how graphql services works in node js.
 
+Also client invocation mechanism for graphql service is available in *client.js*
+
 ## Graphql-tools and Graphql-compose
 
 Trying to illustrate the difference between Graphql-tools and Graphql-compose libray to implement the same services. 
